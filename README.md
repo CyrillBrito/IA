@@ -1,8 +1,4 @@
-# IA
-
-IA - Inteligência artificial (Portuguese)
-
-AI - Artificial intelligence
+# Artificial intelligence
 
 This class covers the essential information about artificial intelligence, starting from search trees and ending with neural networks. The professors of the class were António Ruano and Fernando Lobo. Some of the concepts learned in the class:
 
